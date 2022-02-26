@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ladies milk-house: or, the oppressed man's complaint</title>
+            <author>W. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76492</idno>
+            <idno type="STC">Wing B215</idno>
+            <idno type="STC">ESTC R230840</idno>
+            <idno type="EEBO-CITATION">99896566</idno>
+            <idno type="PROQUEST">99896566</idno>
+            <idno type="VID">170730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2417:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ladies milk-house: or, the oppressed man's complaint</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Caption title on page [3]</note>
+                  <note>The first leaf has a letter on verso signed W.B.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charity --  Early works to 1800.</term>
+               <term>Hospitals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="preface">
+            <pb facs="tcp:170730:1"/>
+            <p> IT is with all Lowlineſs imaginable, hereby moſt humbly hinted to the Right Reve<g ref="char:EOLhyphen"/>rend, Right Honorable, much Honored, Reverend and Worſhipful Perſons, all which we have preſumed to nominate in the other ſide of this Paper, as Referrees of the Ladies intended Hoſpital, That on the 3 and 4th of this Inſtant, a Meſſenger was ſent with great Care to the ſeveral houſes of the four Gentlemen herein mention'd, Sr. <hi>F. Pemberton,</hi> and the other three, in manner and form of this Letter following.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Worſhipful Sir,</salute>
+                  </opener>
+                  <p>
+                     <q>YOu know I have too much Matter and Backwardneſs publickly to complain of tho' in part I yet do in theſe two printed ſheets; which is the ſame that I am this 3 and 4 of <hi>April</hi> ſending to the Right Honorable, Right Reverend, Reverend and Wor<g ref="char:EOLhyphen"/>ſhipful Perſons, many whoſe great Prudence may be equal, and moſt of them better able to judg of true Charity and Chriſtian Duties than you Sr. <hi>Francis,</hi> who was plea<g ref="char:EOLhyphen"/>ſed to promiſe <hi>August</hi> 27. 1683. in the preſence of five Gentlemen, You would incou<g ref="char:EOLhyphen"/>rage any thing towards upholding the Hoſpital, The Lord <hi>Berkly,</hi> the Lord of <hi>London,</hi> the Dean of <hi>Canterbury,</hi> the Dean of <hi>Norwich,</hi> Dr <hi>Haiſcard,</hi> Dr <hi>Horneck,</hi> with others ſhould think worthy; and did then further ſay, If you ſhould do any thing to hinder true Charity, you hoped God would never proſper you in it, as may be atteſted—yet, I ſay, You all have—And leave you, with the other three Gentlemen to give your Rea<g ref="char:EOLhyphen"/>ſons above board, or in print, as I have done, who intend nothing but good to all and am your humble Servant</q>
+                  </p>
+                  <closer>
+                     <signed>W B</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Copy of this Letter to Sr. <hi>Fr. Pemberton,</hi> was ſent to <hi>Fr. Blake,</hi> 
+               <abbr>Esq</abbr> 
+               <hi>Henry Corniſh,</hi> 
+               <abbr>Esq</abbr> late Alderman, and to Mr. <hi>Aſhurſt,</hi> with two ſheets to each, of the Ladies Referees papers.</p>
+            <p>And now, not certainly knowing whether this ſhort modeſt and humble Complaint in Behalf of the Nobility's and Gentry's Hoſpital, all which the Word <hi>Ladies</hi> do's include, might ſafely come to the hands of all thoſe honorable, reverend and worſhipful perſons to whom they were really intended and directed, for a great and publick good. It is preſumed to offer over again the ſame papers and number with this little Addition, whereby it may eaſily be perceived in the perſons complain'd of, That they are too con<g ref="char:EOLhyphen"/>ſcious to themſelves of ſome guilt at leaſt, which they much rather deſire may be paſt over, huſh'd up and buried in Silence, then in the leaſt brought into debate: Wherefore this cauſe being the virtuous Ladies, the way cheap, green, plain &amp; pleaſant for carrying it on, it is hoped and confidently preſumed, the right Reverend, noble Lords, Biſhops, Knights Barronets, Reverend Clergy and other worthy Perſons will conſider what more is in their great prudence yet further to be done; it being no waies fitting ſo inferiour perſon ſhould preſume to ſtir one hairs breadth in any way whatever, without leave.</p>
+            <p>But he does yet preſume or beg leave to think this one time only, that if the Noble Lords, Right Reverend Biſhops, or the Right worſhipful Knights Barronets, with the Reverend Deans, Doctors and Worſhipful Eſquires would by their Gentlemen, Stewards or Servants, as they ſhall think fit, commend one two or three of theſe papers on the Ladies behalf, they might mightily oblige them; and immediately gain an hundred times more than he who with ſincerity and long Labour hath ſtill fiſh'd, caught nothing but good Approbation, Promiſes and Subſcriptions; (as is mentioned in the Cloſe) in compariſon of what one quarter of a word of the above mentioned eminent worthy and prudent may eaſily prevail and do: Wherefore it is humbly and moſt earneſtly pray<g ref="char:EOLhyphen"/>ed, by the chearful yet much unworthy ſufferer, who has had a hard Winter, needleſs politick Impriſonment, He not being bound for, or owing to any in the World one groat, but what the Marqueſſes houſe would more than pay (would he ſell it from this Deſign, but will dy a hundred Deaths rather than betray this publick Good,) That you would not for your own and the Noble Ladies ſake, let this preſent Spring be loſt, which pre<g ref="char:EOLhyphen"/>ſents them with all their boſom flowers, you their Lords and Maſters, and every Ey, a a hundred green and freſh delights.</p>
+            <closer>
+               <signed>W. B.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb facs="tcp:170730:1" rendition="simple:additions"/>
+            <head>The LADIES Milk-Houſe: OR, The Oppreſſed Man's COMPLAINT,</head>
+            <head>WITH an humble Offer of a REFERENCE in the behalf of their Hoſpi<g ref="char:EOLhyphen"/>tal Charity-School or Milk-houſe now at HIGH-GATE, for the good of Numberleſs poor Children, nigh and in the Suburbs of <hi>Weſtminſter,</hi> and County of Middleſex, eſpecially theſe ſix Pariſhes, St. <hi>Martin</hi>'s in the Fields, St. <hi>Giles</hi>'s in the Fields, St. <hi>Clement</hi>'s Danes, St. <hi>Paul</hi>'s Covent Garden, St. <hi>Mary Savoy,</hi> and part of St. <hi>Andrews</hi> Holborn.</head>
+            <p>Whereas an Oppoſition hath been made, and a great Endeavour ſtill is to Martyr and ſhare this Eminently good DESIGN, by theſe four (otherwiſe worthy) Perſons, <hi>viz.</hi> Sir <hi>Francis Pemberton,</hi> late Lord Chief Juſtice of <hi>England; Francis Blake</hi> of <hi>High-gate</hi> 
+               <abbr>Esq</abbr> 
+               <hi>Henry Corniſh</hi> 
+               <abbr>Esq</abbr> late Alderman of <hi>London; William Aſhurſt</hi> of <hi>London</hi> Draper: To which Perſons it is hereby Offered, by him who hath been all-along too much diſcou<g ref="char:EOLhyphen"/>raged, wronged, and oppreſſed, to be diſcourſed in this ſingle ſheet, by the aforeſaid Gentlemen, to whom he makes this large Offer for a friendly Reference, <hi>viz.</hi>
+            </p>
+            <p>THat if they can get it under the Hands and Seals of any three Perſons out of the Thirty one, here under-nominated, as they ſtand mentioned, Then the ſaid concerned Perſon ſo much injured will ſit down ſatisfied under the great Damages and Loſſes he hath hitherto patiently ſuſtained during this great Undertaking for the good of ma<g ref="char:EOLhyphen"/>ny yet unborn.</p>
+            <p>
+               <label>The Referrees.</label>
+            </p>
+            <p>The Honorable, and Right Reverend, the Lord Biſhop of <hi>London:</hi> the right Reverend the Lord Biſhop of <hi>Lincoln:</hi> the right Reverend, the Lord Biſhop of <hi>Rocheſter.</hi> The re<g ref="char:EOLhyphen"/>verend Dean of <hi>Canterbury;</hi> the Dean of St. <hi>Paul</hi>'s London; the Dean of <hi>Norwich;</hi> the reve<g ref="char:EOLhyphen"/>rend Doctor <hi>Tenniſon,</hi> Miniſter of St. <hi>Martins;</hi> Doctor <hi>Haiſcard,</hi> miniſter of St. <hi>Clement</hi>'s Danes. Doctor <hi>Horneck,</hi> Miniſter of St. <hi>Mary</hi> Savoy; Doctor <hi>More,</hi> Doctor <hi>Wiggons,</hi> Do<g ref="char:EOLhyphen"/>ctor <hi>Turner,</hi> at the Lord of <hi>London</hi>'s; Doctor <hi>Meriton,</hi> Lecturer of St. <hi>Martin's;</hi> Mr. <hi>Leech,</hi> Lecturer of St. <hi>Giles</hi>'s; Mr. <hi>Hopkins,</hi> Lecturer of St. <hi>Paul</hi>'s Covent-Garden.</p>
+            <p>And if to none of all theſe Reverend Divines, Then to any Three of theſe Four moſt Honorable Lords, or right worſhipful, &amp; Worſhipful Knights Baronets, and Eſquires. The Right Honorable the Earl of <hi>Kent,</hi> the Right Honorable the Earl of <hi>Bedford,</hi> the Right Honorable the Earl of <hi>Berkly,</hi> the Right Honorable the Lord <hi>Falconbridge.</hi>
+            </p>
+            <p>Or the right Woſhipful Sir <hi>Walter St. Johns,</hi> Sir <hi>James Langham,</hi> Serjeant <hi>Maynard,</hi> Sir <hi>Charles Cottrel,</hi> Sir <hi>Richard Maſon,</hi> Sir <hi>Chriſtopher Wren;</hi> Sir <hi>William Turner,</hi> Sir <hi>Robert Clayton,</hi> Sir <hi>John Shorter.</hi> The Worſhipful Alderman <hi>Arnold, Robert Bartlet</hi> 
+               <abbr>Esq</abbr> 
+               <hi>John Nichols</hi> Eſquire, Counſellor of the Temple.</p>
+            <p>So that if any three of theſe right Honorable, Reverend or Worſhipful Perſons, as they ſtand, ſhall give it under their hands and Seals, That they Believe or think this DESIGN is not Good, Much, or at all Wanted in theſe Parts, well Fixt and placed for which it is endeavoured, petitioned and intended; and that the late Lord Marqueſs of <hi>Dorcheſter</hi>'s Houſe is not a Noble, Graceful, Cheap and Convenient Building for this DESIGN, where the Children may be more Healthfully kept, and leſs diverted from their Learning than elſe where, it being much in the View of the Gentry.</p>
+            <p>Or elſe, that the right Worſhipful Sir <hi>Francis,</hi> and the three other Gentlemen have done kindly or neighbourly according to Law, or as they ſhould or ought to have done by the Petitioner: yea, if they have not done unkindly and unneighbourly in what they have done againſt him, he will be bound in a great meaſure to ſit down ſatisfied in what they have already done againſt him, with the Loſs of all his Expenſes although they have been very great and conſiderable, and purely occaſioned by them, beſides his Pains, Abuſes and Sufferings even to this day, which hath been almoſt unſpeakable alſo.</p>
+            <p>But if Sir <hi>Francis P.</hi> and the three Gentlemen or Eſquires, cannot procure thtee of
+<pb facs="tcp:170730:2"/> the four Noble mens hands, nor the three right Reverend Biſhops, nor the three reve<g ref="char:EOLhyphen"/>rend Deans, nor three of the ſix Doctors, nor the three Lecturers, nor any three of the nine right worſhipful Knights and Baronets, or the three Eſquires, to give it under their hands and Seals, as above mentioned, within the ſpace of one Fortnights time, or elſe to knock under board—and for ever ceaſe their Oppoſition againſt the LADIES HO<g ref="char:EOLhyphen"/>SPITAL; and think on that great Wrong, with ſome part of Amends, for what they have done to their harmleſs Friend and Neighbour, his VVife and good Children, (Son and Daughters, which he loves next GOD and his Soul) by inciting and ſtirring them up againſt this Publick GOOD, tending to the Advantage of the Poor, the Nobilities, Gentries, Clergy's, yea, RELIGION's Praiſe, to the VVorlds End. All which this DESIGN VVas, Is, and Ever will be for.</p>
+            <p>And Three or Four Hundred Pounds will ſet it immediately going, againſt all Op<g ref="char:EOLhyphen"/>poſition, towards which it is hoped and verily believed ſeveral pious and charitable minded Perſons will forthwith ſend their Kindneſs: (Many having formerly promiſed and ſubſcribed) to ſome one of theſe Reverend Divines, making them as ſo many Trea<g ref="char:EOLhyphen"/>ſurers in their own Pariſhes, till they ſhall think on ſome other, that their High Cal<g ref="char:EOLhyphen"/>ling and great Studies may not be too much interrupted, by this truly Good and Charitable VVork, who will doubtleſs ſee it well managed to their perpetual Honour: and the preſent pleaſure of the Ey, by ſeeing many Children in their Habit, before next Quarter, or this Summer come about, or elſe their Money to be all reſtored.</p>
+            <p>And he who has been labouring at it, will Refer every thing into their own, or others hands, as they ſhall think beſt, without any thing of his own Name, to the World's End: And give, in his Accounts, if deſired, very conſiderably towards it, beſides all his Labour and Pains: And ſettle every thing by a Surrender, Leaving ſuch VVorthy Perſons as ſhall aſſiſt or manage it as Governours, by his moſt Gracious Majeſty's Favour and Pa<g ref="char:EOLhyphen"/>tent to re-imburſe him, in ſuch manner and time as they themſelves ſhall think fit.</p>
+            <p>And now, can it be imagined, but that ſome, nay, many will do as the wiſe in heart did, in another Caſe, about the Rearing of the Tabernacle, this being, in a little mea<g ref="char:EOLhyphen"/>ſure, towards ſuch a VVork: VViſely conſidering they do but lay up for themſelves, 1 <hi>Tim.</hi> 6. 17. And how the Night comes, when no man can work: the Silver Cord and Golden Bowl will ſoon be broken, like the Pitcher at the Fountain head; and then VANITY of VANITIES ALL IS VANITY, Except CHRIST and Good VVorks, <hi>Exodus</hi> 35. 22, 29. <hi>John</hi> 9. 4. <hi>Eccleſ.</hi> 12. 6, 7, 8. <hi>Dan.</hi> 12. 13. So that without Re<g ref="char:EOLhyphen"/>pentance, the great Oppoſers of Charity, will be in danger to go where it ſhall ne<g ref="char:EOLhyphen"/>ver avail to weep, <hi>Matt.</hi> 8. 12. &amp; 25. 46 when they come to ſtep upon the dark Moun<g ref="char:EOLhyphen"/>tains of Eternity, <hi>Jer.</hi> 13. 16. which they would do well to Conſider. And this particular Prayer and Epiſtle, as well as our daily ones for poor and Fatherleſs Chil<g ref="char:EOLhyphen"/>dren, ordered and appointed for all Churches, the firſt week in <hi>Lent.</hi>
+            </p>
+            <q>O Lord, who hath taught us, that all our doings without Charity are nothing worth, ſend thy Holy Ghoſt, and pour into our Hearts that moſt excellent Gift of Charity, the very Bond of Peace and of all Virtues, without which whoſoever liveth is accounted dead be<g ref="char:EOLhyphen"/>fore Thee; Grant this for thy only Son Jeſus Chriſt his ſake, Amen.</q>
+            <q>
+               <bibl>The Epiſtle 1 <hi>Cor.</hi> 13. 1.</bibl>
+               <p>
+                  <hi>Though I ſpeak with the Tongues of Men and Angels, and have not Charity, I am become as ſounding braſs, or a tinkling Cim<g ref="char:EOLhyphen"/>ball: Though I have the gift of Prophecy, and underſtand all My<g ref="char:EOLhyphen"/>ſteries, and knowledge; and have all Faith to remove mountains, and have no Charity, it profiteth me nothing. And now abid<g ref="char:EOLhyphen"/>eth Faith, Hope, and Charity, but the greateſt of theſe is Charity.</hi>
+               </p>
+            </q>
+            <p>It is rationally gueſſed, that the Promiſes already given and made will amount to 4 or 500 l. per annum, which may appear by their own Subſciptions and Promiſes.</p>
+            <closer>
+               <dateline>Dated, <date>
+                     <hi>April</hi> 2. 1684.</date>
+               </dateline>
+               <signed>W. B.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
